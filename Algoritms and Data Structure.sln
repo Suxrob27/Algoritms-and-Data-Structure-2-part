@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "Algoritms and Data Structure\LinkedList.csproj", "{F5842A78-267B-4A9A-9461-E4111D8D6A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{C99B32F6-76AB-481C-9A21-FDDA9EBCA020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{1486DF5E-BB36-412D-A9E5-BD05964AF16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree", "Binary Tree\Binary Tree.csproj", "{63A9A9E4-03A9-4822-BDFD-00D5B05260DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMap", "HashMap\HashMap.csproj", "{39CD9C4A-9599-4CAD-8F54-2DB707F60C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{A7DCAD73-409D-41BC-90BF-1D819E83E397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5842A78-267B-4A9A-9461-E4111D8D6A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5842A78-267B-4A9A-9461-E4111D8D6A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5842A78-267B-4A9A-9461-E4111D8D6A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5842A78-267B-4A9A-9461-E4111D8D6A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99B32F6-76AB-481C-9A21-FDDA9EBCA020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99B32F6-76AB-481C-9A21-FDDA9EBCA020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99B32F6-76AB-481C-9A21-FDDA9EBCA020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99B32F6-76AB-481C-9A21-FDDA9EBCA020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1486DF5E-BB36-412D-A9E5-BD05964AF16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1486DF5E-BB36-412D-A9E5-BD05964AF16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1486DF5E-BB36-412D-A9E5-BD05964AF16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1486DF5E-BB36-412D-A9E5-BD05964AF16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A9A9E4-03A9-4822-BDFD-00D5B05260DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A9A9E4-03A9-4822-BDFD-00D5B05260DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A9A9E4-03A9-4822-BDFD-00D5B05260DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A9A9E4-03A9-4822-BDFD-00D5B05260DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CD9C4A-9599-4CAD-8F54-2DB707F60C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CD9C4A-9599-4CAD-8F54-2DB707F60C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CD9C4A-9599-4CAD-8F54-2DB707F60C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CD9C4A-9599-4CAD-8F54-2DB707F60C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DCAD73-409D-41BC-90BF-1D819E83E397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DCAD73-409D-41BC-90BF-1D819E83E397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DCAD73-409D-41BC-90BF-1D819E83E397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DCAD73-409D-41BC-90BF-1D819E83E397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4AA685-D696-4781-910A-77B0105CD2A2}
+	EndGlobalSection
+EndGlobal
